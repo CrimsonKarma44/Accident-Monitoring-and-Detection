@@ -1,0 +1,1690 @@
+[
+   {
+      "datetime": "2024-09-26 08:47:23.977328",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "north-west",
+      "id": 0
+   },
+   {
+      "datetime": "2024-09-26 11:35:56.208623",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "north-west",
+      "id": 1
+   },
+   {
+      "datetime": "2024-09-29 09:55:42.792020",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "north-west",
+      "id": 2
+   },
+   {
+      "carname": "toyota",
+      "temperature": "none",
+      "flamestatus": "true",
+      "coordinate": "north-west",
+      "datetime": "2024-09-29 09:58:10.241579",
+      "id": 3
+   },
+   {
+      "platenumber": null,
+      "temperature": "none",
+      "flamestatus": "none",
+      "coordinate": "none",
+      "datetime": "2024-09-29 10:56:57.350342",
+      "id": 4
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:45:25.495393",
+      "id": 5
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:45:31.913379",
+      "id": 6
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:45:38.355142",
+      "id": 7
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:45:44.686428",
+      "id": 8
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:45:51.104956",
+      "id": 9
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:45:57.706713",
+      "id": 10
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:04.224791",
+      "id": 11
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:10.796267",
+      "id": 12
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:17.567793",
+      "id": 13
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:23.902314",
+      "id": 14
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:30.127887",
+      "id": 15
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:36.366176",
+      "id": 16
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:42.634677",
+      "id": 17
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:48.858712",
+      "id": 18
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:46:55.127190",
+      "id": 19
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:01.602773",
+      "id": 20
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:07.935509",
+      "id": 21
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:14.383918",
+      "id": 22
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:20.614481",
+      "id": 23
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:27.187723",
+      "id": 24
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:33.433554",
+      "id": 25
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:39.983795",
+      "id": 26
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:46.577130",
+      "id": 27
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:53.077515",
+      "id": 28
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:47:59.409338",
+      "id": 29
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:05.638631",
+      "id": 30
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:11.933610",
+      "id": 31
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:18.202655",
+      "id": 32
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:24.526049",
+      "id": 33
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:31.198716",
+      "id": 34
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:37.639474",
+      "id": 35
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:43.992709",
+      "id": 36
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:50.654577",
+      "id": 37
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:48:56.965691",
+      "id": 38
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:49:03.219499",
+      "id": 39
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 11:49:09.683741",
+      "id": 40
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 12:00:03.044059",
+      "id": 41
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 12:00:09.654430",
+      "id": 42
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "40c",
+      "flamestatus": "0",
+      "coordinate": "north",
+      "datetime": "2024-09-29 12:00:15.905289",
+      "id": 43
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:06.005564",
+      "id": 44
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:14.415637",
+      "id": 45
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:21.166295",
+      "id": 46
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:33.127909",
+      "id": 47
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:40.143991",
+      "id": 48
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:46.942277",
+      "id": 49
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:32:54.685581",
+      "id": 50
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:36:47.562779",
+      "id": 51
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:36:54.284062",
+      "id": 52
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:01.619502",
+      "id": 53
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:09.195524",
+      "id": 54
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:16.770785",
+      "id": 55
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:23.761451",
+      "id": 56
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:30.528846",
+      "id": 57
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:38.271414",
+      "id": 58
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:37:45.061432",
+      "id": 59
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:42:41.142256",
+      "id": 60
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:42:47.407751",
+      "id": 61
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:42:53.654128",
+      "id": 62
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:42:59.841416",
+      "id": 63
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:06.150183",
+      "id": 64
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:12.355430",
+      "id": 65
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:18.633877",
+      "id": 66
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:26.421167",
+      "id": 67
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:32.625058",
+      "id": 68
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:39.681140",
+      "id": 69
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:43:46.505482",
+      "id": 70
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:13.661224",
+      "id": 71
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:20.203367",
+      "id": 72
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:27.205604",
+      "id": 73
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:34.521252",
+      "id": 74
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:41.713940",
+      "id": 75
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:48.014248",
+      "id": 76
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:51:55.199571",
+      "id": 77
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:01.984308",
+      "id": 78
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:08.329037",
+      "id": 79
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:15.502338",
+      "id": 80
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:22.428943",
+      "id": 81
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:28.798712",
+      "id": 82
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:35.728013",
+      "id": 83
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:42.877990",
+      "id": 84
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:50.465727",
+      "id": 85
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:52:57.280094",
+      "id": 86
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:04.368438",
+      "id": 87
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:10.994846",
+      "id": 88
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:17.288023",
+      "id": 89
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:23.494758",
+      "id": 90
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:36.098314",
+      "id": 91
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:42.682914",
+      "id": 92
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:49.017508",
+      "id": 93
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:53:55.572972",
+      "id": 94
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:03.955750",
+      "id": 95
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:11.518587",
+      "id": 96
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:17.754715",
+      "id": 97
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:24.023454",
+      "id": 98
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:30.253152",
+      "id": 99
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:36.525053",
+      "id": 100
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:43.665681",
+      "id": 101
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:54:53.699158",
+      "id": 102
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:55:00.291200",
+      "id": 103
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:56:34.496340",
+      "id": 104
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:56:40.872927",
+      "id": 105
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:56:47.097223",
+      "id": 106
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:56:53.369249",
+      "id": 107
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:56:59.620848",
+      "id": 108
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:57:05.888327",
+      "id": 109
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:57:12.157943",
+      "id": 110
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:57:19.373818",
+      "id": 111
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:57:25.910580",
+      "id": 112
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 15:57:32.155767",
+      "id": 113
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:05.562491",
+      "id": 114
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:13.098899",
+      "id": 115
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:19.718566",
+      "id": 116
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:26.024745",
+      "id": 117
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:33.183471",
+      "id": 118
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:39.428004",
+      "id": 119
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:46.379337",
+      "id": 120
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:04:53.454500",
+      "id": 121
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:00.613541",
+      "id": 122
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:07.812042",
+      "id": 123
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:14.578608",
+      "id": 124
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:22.322981",
+      "id": 125
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:30.007161",
+      "id": 126
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:36.481965",
+      "id": 127
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "0.00",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-09-29 16:05:42.710187",
+      "id": 128
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "28.00",
+      "flamestatus": "1",
+      "coordinate": "lat9.61530 lon6.54766",
+      "datetime": "2024-09-29 16:05:48.975242",
+      "id": 129
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "26.34",
+      "flamestatus": "0",
+      "coordinate": "lat9.61534 lon6.54777",
+      "datetime": "2024-09-29 16:05:56.116386",
+      "id": 130
+   },
+   {
+      "platenumber": "ACF-23F-CX5",
+      "temperature": "28.45",
+      "flamestatus": "0",
+      "coordinate": "lat9.61524 lon6.54776",
+      "datetime": "2024-09-29 16:06:03.741429",
+      "id": 131
+   },
+   {
+      "platenumber": "toyota",
+      "temperature": "23",
+      "flamestatus": "true",
+      "coordinate": "lat9.61534 lon6.54777",
+      "datetime": "2024-09-30 09:36:20.976414",
+      "id": 132
+   },
+   {
+      "platenumber": "toyota",
+      "temperature": "23",
+      "flamestatus": "true",
+      "coordinate": "lat9.61534 lon6.54777",
+      "datetime": "2024-09-30 09:36:30.566121",
+      "id": 133
+   },
+   {
+      "platenumber": "toyota",
+      "temperature": "23",
+      "flamestatus": "true",
+      "coordinate": "lat9.61534 lon6.54777",
+      "datetime": "2024-09-30 09:36:31.489761",
+      "id": 134
+   },
+   {
+      "datetime": "2024-09-30 09:36:44.819261",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 135
+   },
+   {
+      "datetime": "2024-09-30 09:36:47.610271",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 136
+   },
+   {
+      "datetime": "2024-09-30 09:36:48.967664",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 137
+   },
+   {
+      "datetime": "2024-09-30 09:37:55.384305",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 138
+   },
+   {
+      "datetime": "2024-09-30 09:37:57.294675",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 139
+   },
+   {
+      "datetime": "2024-09-30 09:38:10.985826",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 140
+   },
+   {
+      "datetime": "2024-09-30 09:38:13.199298",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 141
+   },
+   {
+      "datetime": "2024-09-30 09:38:14.572969",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 142
+   },
+   {
+      "datetime": "2024-09-30 09:38:15.808173",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 143
+   },
+   {
+      "datetime": "2024-09-30 09:38:32.243591",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 144
+   },
+   {
+      "datetime": "2024-09-30 09:38:40.042172",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 145
+   },
+   {
+      "datetime": "2024-09-30 09:38:45.149828",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 146
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 10:42:47.797360",
+      "id": 147
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 10:42:56.855172",
+      "id": 148
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 10:46:28.008094",
+      "id": 149
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 10:47:44.600983",
+      "id": 150
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 10:48:10.418696",
+      "id": 151
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 11:13:31.025773",
+      "id": 152
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 11:15:07.577667",
+      "id": 153
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-01 11:20:36.794974",
+      "id": 154
+   },
+   {
+      "datetime": "2024-10-01 12:54:32.149583",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 155
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-05 07:57:33.790672",
+      "id": 156
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "gidan kwano",
+      "datetime": "2024-10-05 07:57:39.809511",
+      "id": 157
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:00:33.883272",
+      "id": 158
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:00:45.782422",
+      "id": 159
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:01:19.388353",
+      "id": 160
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:01:36.178339",
+      "id": 161
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:02:21.051891",
+      "id": 162
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:02:56.488676",
+      "id": 163
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:03:03.392744",
+      "id": 164
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:03:14.169489",
+      "id": 165
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-06 16:03:54.196728",
+      "id": 166
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 11:22:06.648785",
+      "id": 167
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 11:22:58.177772",
+      "id": 168
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 11:23:05.560369",
+      "id": 169
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 11:57:48.871780",
+      "id": 170
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:53:17.205952",
+      "id": 171
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:53:22.716451",
+      "id": 172
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:53:28.310710",
+      "id": 173
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:54:10.666087",
+      "id": 174
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:54:16.018199",
+      "id": 175
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:54:21.496679",
+      "id": 176
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:54:27.260700",
+      "id": 177
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "25c",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:54:32.781826",
+      "id": 178
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:55:12.730080",
+      "id": 179
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:55:18.428078",
+      "id": 180
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:55:23.542081",
+      "id": 181
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 12:57:42.132028",
+      "id": 182
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:00:28.904138",
+      "id": 183
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:01:21.643711",
+      "id": 184
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:01:29.425546",
+      "id": 185
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:02:01.888530",
+      "id": 186
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:02:53.953202",
+      "id": 187
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:05:12.320755",
+      "id": 188
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:05:26.746178",
+      "id": 189
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:06:26.520421",
+      "id": 190
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:10:35.118889",
+      "id": 191
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:10:48.314655",
+      "id": 192
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:13:56.679955",
+      "id": 193
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:14:56.355826",
+      "id": 194
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:15:05.880538",
+      "id": 195
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "1",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:15:26.885651",
+      "id": 196
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:20:30.928625",
+      "id": 197
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:20:38.616890",
+      "id": 198
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:21:07.678659",
+      "id": 199
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:22:40.379265",
+      "id": 200
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:23:43.663696",
+      "id": 201
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:25:04.193794",
+      "id": 202
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:29:30.761814",
+      "id": 203
+   },
+   {
+      "platenumber": "AB1-23F-CX5",
+      "temperature": "none",
+      "flamestatus": "0",
+      "coordinate": "lng=0.00 lng=0.00",
+      "datetime": "2024-10-07 13:29:42.054592",
+      "id": 204
+   },
+   {
+      "x": 247,
+      "y": 65,
+      "w": 164,
+      "h": 103,
+      "datetime": "2024-10-07 14:04:42.698586",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 205
+   },
+   {
+      "x": 247,
+      "y": 65,
+      "w": 164,
+      "h": 103,
+      "datetime": "2024-10-07 14:04:47.969876",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 206
+   },
+   {
+      "x": 247,
+      "y": 65,
+      "w": 164,
+      "h": 103,
+      "datetime": "2024-10-07 14:04:51.758839",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 207
+   },
+   {
+      "x": 247,
+      "y": 65,
+      "w": 164,
+      "h": 103,
+      "datetime": "2024-10-07 14:04:56.651282",
+      "type": "Pothole",
+      "confidence": "0.8428294",
+      "coordinate": "none",
+      "region": "none",
+      "id": 208
+   }
+]
